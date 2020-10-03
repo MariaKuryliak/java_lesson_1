@@ -1,4 +1,4 @@
-public class java_lesson_<1>
+public class java_lesson_1
 {
      public static void main(String []args){
         // завдання 1
